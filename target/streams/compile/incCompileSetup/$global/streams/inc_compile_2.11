@@ -1,0 +1,374 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+23 items
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$1.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$2.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$3.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$4.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$5.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$6.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$7.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$8.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$9$$anonfun$apply$1.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$9.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$asyncHandler$1.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$asyncHandler$2.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$asyncHandler$3.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$asyncHandler$4.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$convertToString$1.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$getTickerHandler$1.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$delayedInit$body.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Database$.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Database.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/IDActor$$anonfun$receive$1.class
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/IDActor.class
+binary dependencies:
+9 items
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.7.jar
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-1.0-M2.jar
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0-M2.jar
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.0-M2.jar
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/.ivy2/cache/org.reactivemongo/play2-reactivemongo_2.11/jars/play2-reactivemongo_2.11-0.10.5.0.akka23.jar
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/jars/reactivemongo-bson_2.11-0.10.5.0.akka23.jar
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/jars/reactivemongo_2.11-0.10.5.0.akka23.jar
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /home/mazzika/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.65-3.b17.el7.x86_64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+23 items
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$$anonfun$1
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$$anonfun$2
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$$anonfun$3
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$$anonfun$4
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$$anonfun$5
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$$anonfun$6
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$$anonfun$7
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$$anonfun$8
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$$anonfun$9
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$$anonfun$9$$anonfun$apply$1
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$$anonfun$asyncHandler$1
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$$anonfun$asyncHandler$2
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$$anonfun$asyncHandler$3
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$$anonfun$asyncHandler$4
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$$anonfun$convertToString$1
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$$anonfun$getTickerHandler$1
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot$delayedInit$body
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Database
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Database$
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> IDActor
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> IDActor$$anonfun$receive$1
+used names:
+207 items
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> !
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> *
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> +
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> ->
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> /
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> <init>
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> ==
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> A1
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Actor
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> ActorLogging
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> ActorPath
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> ActorSelection
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> ActorSystem
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> AnyRef
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> App
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> B1
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> BSONCollection
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> BSONCollectionProducer
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> BSONDocument
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> BSONDocumentIdentity
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> BSONFormats
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> BSONIntegerHandler
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> BSONStringHandler
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Boot
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Broadcast
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> ClassTag
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Database
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> ExecutionContext
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Flow
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> FlowGraphImplicits
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> FlowMaterializer
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Function1
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Future
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> GET
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Http
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> HttpEntity
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> HttpMethods
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> HttpRequest
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> HttpResponse
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> IDActor
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Implicits
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Json
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> List
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Math
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Merge
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> MongoDriver
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> None
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> NotFound
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> OK
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Option
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Path
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Predef
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Producer
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Props
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> StatusCodes
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> String
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Thread
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> UndefinedSink
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> UndefinedSource
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> Uri
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> ZipWith
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> actor
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> actorOf
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> actorRef2Scala
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> actorSelection
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> akka
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> api
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> apply
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> asInstanceOf
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> asyncHandler
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> bCast
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> bind
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> broadCastMergeFlow
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> broadCastZipFlow
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> bson
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> builder
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> canBuildFrom
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> collect
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> collection
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> collections
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> concurrent
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> connect
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> connection
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> connections
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> context
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> convertToString
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> cursor
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> db
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> default
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> driver
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> f
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> filter
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> find
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> findAllTickers
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> findTicker
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> foreach
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> fromString
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> get
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> getTickerHandler
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> global
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> handleWith
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> http
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> idActor
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> immutable
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> in
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> info
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> inp
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> inp1
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> inp2
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> inp3
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> input
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> input1
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> input2
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> input3
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> isEmpty
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> isInstanceOf
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> java
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> json
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> lang
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> libs
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> log
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> map
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> mapAsync
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> mapToResponse
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> materializeClassTag
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> materializer
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> merge
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> method
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> mkString
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> model
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> modules
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> nameValue2Producer
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> ne
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> one
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> out
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> package
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> path
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> play
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> qual$1
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> qual$2
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> qual$3
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> qual$4
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> query
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> queryParameter
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> random
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> reactivemongo
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> ref
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> request
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> scala
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> scaladsl
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> self
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> serverBinding1
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> serverBinding2
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> sleep
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> step1
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> step2
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> step3
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> stream
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> stringify
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> system
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> t
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> tickName
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> ticker
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> toInt
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> toJSON
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> toLong
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> toScala
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> toString
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> unapply
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> unary_!
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> unchecked
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> uri
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$1
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$10
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$11
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$12
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$13
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$14
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$15
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$16
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$17
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$18
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$19
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$2
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$20
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$21
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$22
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$23
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$24
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$25
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$26
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$27
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$28
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$29
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$3
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$30
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$31
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$32
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$4
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$5
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$6
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$7
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$8
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> x$9
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> zip
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> ~>
+product stamps:
+23 items
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$1.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$2.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$3.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$4.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$5.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$6.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$7.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$8.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$9$$anonfun$apply$1.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$9.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$asyncHandler$1.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$asyncHandler$2.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$asyncHandler$3.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$asyncHandler$4.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$convertToString$1.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$$anonfun$getTickerHandler$1.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot$delayedInit$body.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Boot.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Database$.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/Database.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/IDActor$$anonfun$receive$1.class -> lastModified(1458156587000)
+/home/mazzika/Documents/akka-examples/http_akka/target/scala-2.11/classes/IDActor.class -> lastModified(1458156587000)
+source stamps:
+1 items
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> hash(229db677ec7434d43c9a1e27cfbdd35f4d30dfc3)
+binary stamps:
+9 items
+/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.7.jar -> lastModified(1415786520000)
+/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-1.0-M2.jar -> lastModified(1419335340000)
+/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0-M2.jar -> lastModified(1419335280000)
+/home/mazzika/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.0-M2.jar -> lastModified(1417488720000)
+/home/mazzika/.ivy2/cache/org.reactivemongo/play2-reactivemongo_2.11/jars/play2-reactivemongo_2.11-0.10.5.0.akka23.jar -> lastModified(1412889300000)
+/home/mazzika/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/jars/reactivemongo-bson_2.11-0.10.5.0.akka23.jar -> lastModified(1412869860000)
+/home/mazzika/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/jars/reactivemongo_2.11-0.10.5.0.akka23.jar -> lastModified(1412869800000)
+/home/mazzika/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1438617791000)
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.65-3.b17.el7.x86_64/jre/lib/rt.jar -> lastModified(1448074043000)
+class names:
+9 items
+/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.7.jar -> akka.actor.ActorLogging
+/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-1.0-M2.jar -> akka.http.model.HttpProtocol
+/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0-M2.jar -> akka.stream.scaladsl.UndefinedSource
+/home/mazzika/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.0-M2.jar -> play.api.libs.json.Json$
+/home/mazzika/.ivy2/cache/org.reactivemongo/play2-reactivemongo_2.11/jars/play2-reactivemongo_2.11-0.10.5.0.akka23.jar -> play.modules.reactivemongo.json.BSONFormats$
+/home/mazzika/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/jars/reactivemongo-bson_2.11-0.10.5.0.akka23.jar -> reactivemongo.bson.BSONDocument
+/home/mazzika/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/jars/reactivemongo_2.11-0.10.5.0.akka23.jar -> reactivemongo.api.collections.default.BSONCollection$
+/home/mazzika/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.App
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.65-3.b17.el7.x86_64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCPg6thAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAEc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwMFvuj3QABHNlbGZzcQB+AAvTXP2odAAMbWF0ZXJpYWxpemVyc3EAfgALXcRmUHQAB2NvbnRleHRzcQB+AAuBYSfkdAAGc3lzdGVtdXEAfgAJAAAAP3NxAH4AC9ptKih0AAZub3RpZnlzcQB+AAsk8WvgdAAHUmVjZWl2ZXNxAH4AC8c/dtZ0AAJpbnNxAH4AC9LP8wN0AAR3YWl0c3EAfgALKFftbnQADSRhc0luc3RhbmNlT2ZzcQB+AAscoOmmdAAOc2VydmVyQmluZGluZzFzcQB+AAuKU1JZdAAKY29sbGVjdGlvbnNxAH4AC0TCL3N0AAdJREFjdG9yc3EAfgAL29XVgXQAA3ppcHNxAH4AC1ajqiR0AAdjb25uZWN0c3EAfgAL5qO1FnQAEGJyb2FkQ2FzdFppcEZsb3dzcQB+AAtF/lQOdAAEQm9vdHNxAH4AC2xKXN50AAVzdGVwMnNxAH4AC42/57R0AAZlcXVhbHNzcQB+AAtdInXjdAAFYkNhc3RzcQB+AAsa77G5dAAMYXNJbnN0YW5jZU9mc3EAfgALJoCXoXQADmV4ZWN1dGlvblN0YXJ0c3EAfgALYBqt0nQADHN5bmNocm9uaXplZHNxAH4AC68w4zd0AAhEYXRhYmFzZXNxAH4AC0ApC8l0AA0kaXNJbnN0YW5jZU9mc3EAfgALbnZyx3QAB3JlY2VpdmVzcQB+AAtQ4M8DdAAKcHJlUmVzdGFydHNxAH4AC8Psvzl0AA1hcm91bmRSZWNlaXZlc3EAfgAL0hvW63QAC3Bvc3RSZXN0YXJ0c3EAfgAL12uaJXQABG1haW5zcQB+AAvpwKiWdAAIcG9zdFN0b3BzcQB+AAsejBrzdAAJbm90aWZ5QWxsc3EAfgALUbRLrHQAA291dHNxAH4AC6S4jMd0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC5WUQJF0AAxpc0luc3RhbmNlT2ZzcQB+AAsASMd0dAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC5sDlUd0AA5hcm91bmRQb3N0U3RvcHNxAH4ACyxQS5Z0AAVzdGVwMXNxAH4AC6SXUv50AA1tYXBUb1Jlc3BvbnNlc3EAfgALSmYkWHQABjxpbml0PnNxAH4AC7CS3Fl0AAVtZXJnZXNxAH4AC3XwBiV0AAhwcmVTdGFydHNxAH4AC5NLPeV0AAl1bmhhbmRsZWRzcQB+AAtDZWfvdAACPT1zcQB+AAtCOd+gdAAKZmluZFRpY2tlcnNxAH4AC1qb1Ed0AAVjbG9uZXNxAH4AC0eHNuJ0AA9jb252ZXJ0VG9TdHJpbmdzcQB+AAt86zh7dAAMYXN5bmNIYW5kbGVyc3EAfgALZykC3HQAEGdldFRpY2tlckhhbmRsZXJzcQB+AAubp5MWdAAGc2VuZGVyc3EAfgALV2eT5XQACHRvU3RyaW5nc3EAfgALSCl8Z3QABGFyZ3NzcQB+AAv9tn2gdAAHaWRBY3RvcnNxAH4ACw+yw/d0AAIhPXNxAH4ACzu+mxR0AAhnZXRDbGFzc3NxAH4AC8eZqkt0ABJicm9hZENhc3RNZXJnZUZsb3dzcQB+AAvZI6EKdAACbmVzcQB+AAtmuKD0dAAOc2VydmVyQmluZGluZzJzcQB+AAsQBbyldAAFc3RlcDNzcQB+AAsO8RESdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALWtdXH3QAAmVxc3EAfgALXXeUOHQAA2xvZ3NxAH4AC7bp1Lx0AAtkZWxheWVkSW5pdHNxAH4AC/wLmTJ0AAIjI3NxAH4ACxew8M10AAhmaW5hbGl6ZXNxAH4AC7rgbSp0AA5maW5kQWxsVGlja2Vyc3NxAH4AC7TyMYh0AAhoYXNoQ29kZXNxAH4ACwnrBHJ0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJ14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AO3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+ALV4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ALQAcHNxAH4AuXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCdTAAJaW5oZXJpdGVkcQB+AJ1MAAdwYXJlbnRzcQB+AJ14cQB+AL1zcQB+ALQAcHNxAH4AuXVxAH4AmAAAAABzcQB+ALQAcHNxAH4AuXVxAH4AmAAAAABzcQB+ALQAcHNxAH4AuXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AvHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AvHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDt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
+external apis:
+0 items
+source infos:
+1 items
+/home/mazzika/Documents/akka-examples/http_akka/src/main/scala/HttpAkka.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU4DAk9x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvaGVsbG8tYWtrYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU4DIudp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvaGVsbG8tYWtrYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU4DKzZp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvaGVsbG8tYWtrYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU4DVUoh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvaGVsbG8tYWtrYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU4Dfadh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvaGVsbG8tYWtrYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU4DnrsJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvaHR0cF9ha2thL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
